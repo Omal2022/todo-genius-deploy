@@ -61,7 +61,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				'todo-gradient-from': 'hsl(var(--todo-gradient-from))',
+				'todo-gradient-to': 'hsl(var(--todo-gradient-to))',
+				'todo-surface': 'hsl(var(--todo-surface))',
+				'todo-surface-hover': 'hsl(var(--todo-surface-hover))',
+				'todo-success': 'hsl(var(--todo-success))',
+				'todo-warning': 'hsl(var(--todo-warning))',
+				'todo-glass': 'hsl(var(--todo-glass))',
+				'todo-shadow': 'hsl(var(--todo-shadow))'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
